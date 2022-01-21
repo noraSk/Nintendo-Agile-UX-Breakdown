@@ -22,4 +22,4 @@ Story: As a middle school student I want to play online nintendo games so that I
 9. User scrolls down to choose a game that he/she likes and starts playing.
 
 #### Wireflow
-![wireframe](https://user-images.githubusercontent.com/87A2B7CC-087E-4D42-9086-652FDC08BB90.JPEG)
+![wireframe](87A2B7CC-087E-4D42-9086-652FDC08BB90.JPEG)
