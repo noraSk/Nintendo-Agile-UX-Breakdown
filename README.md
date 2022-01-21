@@ -20,3 +20,6 @@ Story: As a middle school student I want to play online nintendo games so that I
 7. User taps "Menu".
 8. User clicks "Activities".
 9. User scrolls down to choose a game that he/she likes and starts playing.
+
+#### Wireflow
+87A2B7CC-087E-4D42-9086-652FDC08BB90.JPEG
